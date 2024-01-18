@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  tracing their roots from the late 19th century through the Soviet period. 
 
 domain: europeanstudiessites.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://europeanstudiessites.github.io/Ukrainian_Anarchist_Movement/    # the base hostname and protocol for your site, e.g. http://example.com
+url: https://europeanstudiessites.github.io/    # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /Ukrainian_Anarchist_Movement/  
 favicon: "" # the favicon for your site
 
