@@ -39,7 +39,7 @@ author: UT Libraries
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "2023, Jyotsna Vempati and Ian Goodale"
+copyright: "2024, Jyotsna Vempati and Ian Goodale"
 remote_theme: "jeffreytse/jekyll-theme-yat"
 description: >- # this means to ignore newlines until "baseurl:"
  This site highlights the history of the Ukrainian anarchist movements of the early twentieth century, 
@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: europeanstudiessites.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://europeanstudiessites.github.io/    # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /Ukrainian_Anarchist_Movement/  
+baseurl: "" 
 favicon: "" # the favicon for your site
 
 # Yat date format
