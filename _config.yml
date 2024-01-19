@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: europeanstudiessites.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://europeanstudiessites.github.io/    # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /Ukrainian_Anarchist_Movement/  
+#baseurl: /Ukrainian_Anarchist_Movement/  
 favicon: "" # the favicon for your site
 
 # Yat date format
